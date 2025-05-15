@@ -5,7 +5,5 @@ langchain>=0.1.13
 faiss-cpu
 langchain-google-genai
 google-generativeai
-sentence-transformers==2.2.2
-transformers==4.36.2
-torch==2.1.2
-
+sentence-transformers
+transformers
