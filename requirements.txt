@@ -3,7 +3,6 @@ pandas
 numpy
 langchain>=0.1.13
 faiss-cpu
-google-generativeai
 langchain-google-genai
-transformers
 sentence-transformers
+transformers
